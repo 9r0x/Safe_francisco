@@ -1,0 +1,2 @@
+1. Move ground/wall tileset from D/E to A2
+2. Fix below Transamerica Pyramid(custom_2)
